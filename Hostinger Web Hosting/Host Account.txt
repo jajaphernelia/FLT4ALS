@@ -1,0 +1,21 @@
+System Link: https://flt4als.online/
+
+Hostinger Account
+Link: https://www.hostinger.ph/cpanel-login
+Username: flt4als@gmail.com
+Password: Password@flt4als2023
+
+Website name: flt4als2023
+Password: password@flt4alsWebHost
+
+DATABASE
+Database    : flt4als
+Usename     : projectFlt4Als
+Password    : password@flt4alsDatabase
+
+PHP CONNECTION (variables.php)
+Domain  : flt4als.online
+Db Host : localhost
+Db Name : u850481846_flt4als
+Db User : u850481846_projectFlt4Als
+Db Password: password@flt4alsDatabase

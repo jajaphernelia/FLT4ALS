@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:/Sample Web-based Dashboard/Material-dashboard-2"
+		},
+		{
+			"path": "../Test_Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Material-dashboard-2"
+	}
+}
